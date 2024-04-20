@@ -11,6 +11,8 @@ _section on Alex's talk?_
 
 Pick a contribution from these three themes:
 
+_We could have a seperate overview page for each theme, with different instructions?_
+
 1. Style Issues (Easy)
 2. Test Issues (Medium)
 3. Others
