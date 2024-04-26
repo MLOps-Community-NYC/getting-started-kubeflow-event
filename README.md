@@ -31,36 +31,25 @@ Training Operator allows you to use Kubernetes workloads to effectively train yo
 [] A Personal (Github Account)[https://github.com/]
 [] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## 1. Create a Fork of Training Operator
+## 1. Create a fork of Training Operator
 
 1. Go to [github.com/kubeflow/training-operator](https://github.com/kubeflow/training-operator)
 2. Create a Fork in your personal Github account.
 
+## 2. Setup your local environment
 
+1. Follow the [Developer Guide](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md) to setup your local environment.
 
+## 3. Pick an issue
 
-Follow the [Developer Guide](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md) to setup your environment.
+We have three separate themes of issues available today:
+* [Code Style](issues/style.md) (Easier Difficulty)
+* [Unit Tests](issues/unit-tests.md) (Medium Difficulty)
+* [Other](issues/other.md)
 
+1. Head to [this spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) and pick and issue that looks interesting to you - pick one that hasn't been claimed by someone.
+2. Reserve the issue by putting your name in the `Claimed By` column. This will prevent another person picking up the same issue.
 
-
-
-## 1. Pick an Issue
-
-Pick a contribution from these three themes:
-
-_We could have a seperate overview page for each theme, with different instructions?_
-
-1. Style Issues (Easy)
-2. Test Issues (Medium)
-3. Others
-
-## 2. Pull the code
-
-## 3. Quick overview of the code
-
-## 4. Run tests
-
-## 5. Make a PR
 
 --
 
