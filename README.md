@@ -5,7 +5,14 @@ Thanks for joining us this evening! Here is a quick one-pager for keeping up to 
 
 > [opensource.guide](https://opensource.guide/) is a great resource for starting in the world of Open Source Contribution.
 
-_section on Alex's talk?_
+### Important Links
+
+[Kubeflow Training Operator Code](https://github.com/kubeflow/training-operator)
+
+[Issues Spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/)
+
+
+[TODO] _section on Alex's talk?_
 
 ## What is Kubeflow?
 
@@ -26,10 +33,10 @@ Training Operator allows you to use Kubernetes workloads to effectively train yo
 
 # Setting Up Your Environment
 
-## Pre-requisites
+## Pre-requisites
 
-[] A Personal (Github Account)[https://github.com/]
-[] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [ ] A Personal [Github Account](https://github.com/)
+- [ ] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## 1. Create a fork of Training Operator
 
@@ -47,12 +54,21 @@ We have three separate themes of issues available today:
 * [Unit Tests](issues/unit-tests.md) (Medium Difficulty)
 * [Other](issues/other.md)
 
-1. Head to [this spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) and pick and issue that looks interesting to you - pick one that hasn't been claimed by someone.
+1. Head to [this spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/) and pick and issue that looks interesting to you - pick one that hasn't been claimed by someone.
 2. Reserve the issue by putting your name in the `Claimed By` column. This will prevent another person picking up the same issue.
 
+## 4. Create your PR
 
---
+Make your changes locally, and create a PR.
+* [Making your Kubeflow PR (todo)]()
 
-# Live PR Reviews
+Follow the tips in the theme docs specific tips:
+* [Code Style](issues/style.md) (Easier Difficulty)
+* [Unit Tests](issues/unit-tests.md) (Medium Difficulty)
+* [Other](issues/other.md)
+
+> 🔥 Important: Don't forget to link your PR in [this spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/) under the PR column.
+
+# Live PR Reviews [In Progress]
 
 Steps for signing your PR up for a live review
