@@ -31,7 +31,7 @@ Training Operator allows you to use Kubernetes workloads to effectively train yo
 [Documentation](https://www.kubeflow.org/docs/components/training/
 ) - [Code](https://github.com/kubeflow/training-operator)
 
-# Setting Up Your Environment
+# Contributing
 
 ## Pre-requisites
 
