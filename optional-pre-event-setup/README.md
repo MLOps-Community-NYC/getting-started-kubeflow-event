@@ -19,6 +19,8 @@ Kubeflow is a cloud-native platform for machine learning operations - pipelines,
 
 [Documentation](https://www.kubeflow.org/) - [Code](https://github.com/kubeflow/kubeflow)
 
+> 📺 IBM created this [awesome 4 minute explainer video](https://www.youtube.com/watch?v=Dbwj-NHnHfw).
+
 Today we will be jumping into the Kubeflow Training Operator!
 
 ## What is Kubeflow Training Operator?
@@ -35,5 +37,8 @@ Training Operator allows you to use Kubernetes workloads to effectively train yo
 The developer guide for Kubeflow Trianing Operator is [here](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md).
 
 We recommend:
+1. Creating a [Github Account](https://github.com/) - so that you can create Forks and PRs. 
+1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. [Installing the prerequisites.](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md)
+1. [Building an Operator](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md#building-the-operator)
 2. [Running the example operator locally.](https://github.com/kubeflow/training-operator/blob/master/docs/development/developer_guide.md)
