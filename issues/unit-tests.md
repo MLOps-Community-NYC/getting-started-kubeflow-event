@@ -44,6 +44,6 @@ Meaning the following functions are currently untested:
 * `update_job`
 * `delete_job`
 
-**This is your chance to contribute a test for one of these functions.**
+**This is your groups chance to contribute a test for one of these functions.**
 
 Head over to the [contribution spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8) to claim one of the functions to create a test for.

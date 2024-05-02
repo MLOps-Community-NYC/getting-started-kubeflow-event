@@ -39,5 +39,5 @@ We have three separate themes of issues available today:
 
 Once your team have some code to resolve the issue. You are going to need to create a PR into the code base.
 
-1. 
+1. <Waiting on contribution from Alex>
 1. Link your PR into the [same spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/) from earlier. There is a column for PRs.
