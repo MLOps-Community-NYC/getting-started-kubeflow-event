@@ -2,6 +2,10 @@
 
 Hey everyone 👋
 
+# [Unit Tests Help](issues/unit-tests.md) (🌶🌶 Medium Difficulty)
+# [Code Style Help](issues/style.md) (🌶 Easier Difficulty)
+
+
 We hope you enjoyed Alex Perlman's intro into contributions.
 
 Now its time to **contribute**! 🎉
