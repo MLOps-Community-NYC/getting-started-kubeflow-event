@@ -3,7 +3,7 @@
 
 > [isort](https://pycqa.github.io/isort/) is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type.
 
-We have a number of isort issues in our [Issue Spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8). They are identified by the `Style: isort` category in the category column.
+We have a number of isort issues in our [Issue Spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e). They are identified by the `Style: isort` category in the category column.
 
 ## Contributing with isort code
 
@@ -28,7 +28,7 @@ isort: kubeflow/training-operator/sdk/python/kubeflow/training/api_client.py
 
 ## How to create a PR for an isort issue
 
-1. Pick an isort issue from the [Issue Spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8) and **reserve it by putting your team name in the Claimed By column**.
+1. Pick an isort issue from the [Issue Spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) and **reserve it by putting your team name in the Claimed By column**.
 
 1. Follow the [isort Documentation](https://pycqa.github.io/isort/) to find a way to install isort locally.
 

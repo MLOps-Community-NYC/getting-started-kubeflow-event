@@ -30,7 +30,7 @@ We have three separate themes of issues available today:
 
 
 1. In your group - decide on whether you want to tackle an easier or a more challenging issue.
-1. Go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/) and pick an issue in the category you chose.
+1. Go to [this spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) and pick an issue in the category you chose.
 1. Reserve this issue by putting your teams name in the `Claimed By` column. (This will prevent another team working on the same thing.)
 1. Get started as a team. It's ok to be a little lost when starting on an issue 😄
 
@@ -40,4 +40,4 @@ We have three separate themes of issues available today:
 Once your team have some code to resolve the issue. You are going to need to create a PR into the code base.
 
 1. <Waiting on contribution from Alex>
-1. Link your PR into the [same spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8/) from earlier. There is a column for PRs.
+1. Link your PR into the [same spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) from earlier. There is a column for PRs.

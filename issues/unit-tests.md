@@ -46,4 +46,4 @@ Meaning the following functions are currently untested:
 
 **This is your groups chance to contribute a test for one of these functions.**
 
-Head over to the [contribution spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8) to claim one of the functions to create a test for.
+Head over to the [contribution spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) to claim one of the functions to create a test for.
