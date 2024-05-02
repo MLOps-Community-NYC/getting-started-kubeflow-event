@@ -41,5 +41,6 @@ We have three separate themes of issues available today:
 
 Once your team have some code to resolve the issue. You are going to need to create a PR into the code base.
 
-1. <Waiting on contribution from Alex>
+1. [Guide to making a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request\)
+1. The CLA stage will fail in the GitHib Actions. Click on the details to fill out the CLA
 1. Link your PR into the [same spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) from earlier. There is a column for PRs.
