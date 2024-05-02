@@ -15,7 +15,7 @@ Now its time to **contribute**! 🎉
 
 > 🔥 A number experienced contributors from Capital One are roaming around, and able to jump in and help. Simply raise your hand - and hopefully someone will be free to jump in and help.
 
-> ❓ We also have a slack channel open on the MLOps Community Slack. Feel free to post questions in there too to get help from the community! <br><br>#nyc-2nd-may-open-source<br>If you are yet to join: [Sign up here](https://mlops.community/join/) (Approval may take time)
+> ❓ We also have a slack channel open on the MLOps Community Slack. Feel free to post questions in there too to get help from the community! <br><br>[#nyc-2nd-may-open-source](https://mlops-community.slack.com/archives/C0729RSJY72)<br>If you are yet to join: [Sign up here](https://mlops.community/join/) (Approval may take time)
 
 # What is Kubeflow?
 
