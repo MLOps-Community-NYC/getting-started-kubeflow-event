@@ -1,33 +1,40 @@
-# Style Issues
+# isort Style Issues
 
-Checkout the [Issue Spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8).
 
-The **Type** column the following style categories.
-* `Style: isort` - isort PRs
+> [isort](https://pycqa.github.io/isort/) is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type.
 
-Each style category has some tips below.
+We have a number of isort issues in our [Issue Spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e). They are identified by the `Style: isort` category in the category column.
 
-# isort Issues
+## Contributing with isort code
 
-> isort is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type.
-
-[isort Documentation](https://pycqa.github.io/isort/)
-
-Each isort issue has line in this format.
+Each isort issue in the spreadsheet has the format.
 
 ```
-<filename> Imports are incorrectly sorted and/or formatted.
+isort: directory_path/
+```
+or
+```
+isort: path/to/file.py
 ```
 
 For example:
 ```
-kubeflow/training-operator/docs/release/release.py Imports are incorrectly sorted and/or formatted.
+isort: kubeflow/training-operator/sdk/python/kubeflow/training/api/...
+```
+or
+```
+isort: kubeflow/training-operator/sdk/python/kubeflow/training/api_client.py 
 ```
 
 ## How to create a PR for an isort issue
 
+1. Pick an isort issue from the [Issue Spreadsheet](https://lite.framacalc.org/dulyrft6pc-a78e) and **reserve it by putting your team name in the Claimed By column**.
+
 1. Follow the [isort Documentation](https://pycqa.github.io/isort/) to find a way to install isort locally.
-2. Pick an isort issue from the [Issue Spreadsheet](https://docs.google.com/spreadsheets/d/1sYgp_oqdnchSPRbc7lIsoM71J4dvCq66pIDwpeRkyL8) and **reserve it by putting your name in the Claimed By column**.
-3. Use isort to resolve the issue.
-4. Create a PR from your fork branch to Training Operator.
+
+1. Use isort to resolve the issue for **that path only**.
+
+1. Follow the README.md PR section to create a PR.
+
+> 🔥 Wouldn't it be easier to just do all the python files in one PR? <br><br> Yes, for sure. However we wanted to provide a handful of more accessible opportunities. So please keep your PR to just the directory path in the spreadsheet.
 
